@@ -1,0 +1,2 @@
+def front(head):
+    head=
